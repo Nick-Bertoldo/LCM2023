@@ -9,6 +9,6 @@ Contacts: nicolas.bertoldo@polimi.it
 This study sought to evaluate the potential for mitigating climate change through the use of bio-based building materials for the renovation of vernacular Italian-built stock. To do this, we conducted Life Cycle Assessment (LCA) analysis for a real case study on retrofitting project on old dwellings in Italy. The results obtained for the case studies were then scaled-up to the entire Italian building stock. In this way, we evaluated the impact on climate change associated with the production of the materials, the carbon stored in the bio-based materials, and the potential environmental impacts reduction from reduced energy requirements.
 
 **Bibliography:**
-[1] International Energy Agency. 2019 global status report for buildings and construction: Towards a zero-emissions, efficient and resilient buildings and construction sector. United Nations Environment Programme; 2019
+[1] International Energy Agency. 2019 global status report for buildings and construction: Towards a zero-emissions, efficient and resilient buildings and construction sector. United Nations Environment Programme; 2019  
 [2] ENEA, Annual report on energy certification of buildings, 2022
 
