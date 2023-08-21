@@ -1,15 +1,15 @@
 # LCM2023 - Poster session, 5-8 September 2023
 Supplementary information for the contribution to the Life Cycle Management Conference 2023.
 ## Retrofitting of Italian vernacular built stock with bio-based building materials: a viable solution to mitigate climate change effects?
-Authors: Nicolas Bertoldo<sup>1</sup>, Sergio Sabbadini<sup>2</sup>, Gianluca Ruggieri<sup>3</sup>, Chiara Moletti<sup>1</sup> and Giovanni Dotelli<sup>1</sup>    
-<sup>1</sup> Department of Chemistry, Materials and Chemical Engineering "Giulio Natta" , Politecnico di Milano, Italy;  
-<sup>2</sup> A.N Studio di Architettura Disstudio.it, a.n.a.b., Milan, Italy;  
-<sup>3</sup> Dipartimanto di Scienze Teoriche e Applicate, Università dell'Insubria, Varese, Italy
+>Authors: Nicolas Bertoldo<sup>1</sup>, Sergio Sabbadini<sup>2</sup>, Gianluca Ruggieri<sup>3</sup>, Chiara Moletti<sup>1</sup> and Giovanni Dotelli<sup>1</sup>    
+><sup>1</sup> Department of Chemistry, Materials and Chemical Engineering "Giulio Natta" , Politecnico di Milano, Italy;  
+><sup>2</sup> A.N Studio di Architettura Disstudio.it, a.n.a.b., Milan, Italy;  
+><sup>3</sup> Dipartimanto di Scienze Teoriche e Applicate, Università dell'Insubria, Varese, Italy
 
-Contacts: 
-- email: nicolas.bertoldo@polimi.it
-- LinkedIn: www.linkedin.com/in/nicolas-bertoldo
-- Web page: [mat4en2.cmic.polimi.it](https://mat4en2.cmic.polimi.it/)
+>Contacts: 
+>- email: nicolas.bertoldo@polimi.it
+>- LinkedIn: www.linkedin.com/in/nicolas-bertoldo
+>- Web page: [mat4en2.cmic.polimi.it](https://mat4en2.cmic.polimi.it/)
 
 ### _Brief description of the work:_
 _**Introduction.**_ The construction industry stands as a primary energy consumer and a significant emitter of Greenhouse gases, making a substantial environmental impact. The industry's extensive material usage coupled with inadequate building energy efficiency compounds the detrimental effects on the environment. Notably, the energy performance of buildings within the Italian built-stock registers particularly low figures. In fact, a closer examination of energy certifications issued in 2021 reveals that 34% of these certifications fall into the G class. Therefore, carefully selecting building materials can help reduce the overall environmental impact. In particular, retrofitting existing buildings with bio-based materials can act as carbon storage by trapping the CO2 that plants absorb during the growth phase. In addition, most natural materials have thermal performance comparable to their synthetic counterparts. Thus, good building thermal insulation and high indoor air quality and comfort could also be ensured by adopting new construction paradigms, reducing energy consumption.  
