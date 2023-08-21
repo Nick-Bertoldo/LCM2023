@@ -1,10 +1,10 @@
 # LCM2023 - Poster session, 5-8 September 2023
 Supplementary information for the contribution to the Life Cycle Management Conference 2023.
 ## Retrofitting of Italian vernacular built stock with bio-based building materials: a viable solution to mitigate climate change effects?
-Authors: Nicolas Bertoldo^1, Sergio Sabbadini^2, Gianluca Ruggieri^3, Chiara Moletti^1 and Giovanni Dotelli^1  
-1: Department of Chemistry, Materials and Chemical Engineering "Giulio Natta" , Politecnico di Milano, Italy; 
-2: A.N Studio di Architettura Disstudio.it, a.n.a.b., Milan, Italy; 
-3: Dipartimanto di Scienze Teoriche e Applicate, Università dell'Insubria, Varese, Italy
+Authors: Nicolas Bertoldo<sup>1</sup>, Sergio Sabbadini<sup>2</sup>, Gianluca Ruggieri<sup>3</sup>, Chiara Moletti<sup>1</sup> and Giovanni Dotelli<sup>1</sup>    
+<sup>1</sup> Department of Chemistry, Materials and Chemical Engineering "Giulio Natta" , Politecnico di Milano, Italy;  
+<sup>2</sup> A.N Studio di Architettura Disstudio.it, a.n.a.b., Milan, Italy;  
+<sup>3</sup> Dipartimanto di Scienze Teoriche e Applicate, Università dell'Insubria, Varese, Italy
 
 Contacts: 
 - email: nicolas.bertoldo@polimi.it
