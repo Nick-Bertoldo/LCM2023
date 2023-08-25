@@ -1,6 +1,10 @@
 # LCM2023 - Poster session, 5-8 September 2023
 Supplementary information for the contribution to the Life Cycle Management Conference 2023.  
-The pdf file _PosterLCM2023_1510_Bertoldo_Retrofitting.pdf_ represents a viewable version of the poster.
+In this repository, you can find:  
+- The pdf file _PosterLCM2023_1510_Bertoldo_Retrofitting.pdf_ represents a viewable version of the poster;
+- An example of the brightway code used to compute the LCA results, with the implemented functions;
+- A table with the amount of materials employed in the retrofitting project, and the amount of materials for the synthetic scenario used for comparisons.
+
 ## Retrofitting of Italian vernacular built stock with bio-based building materials: a viable solution to mitigate climate change effects?
 >Authors: Nicolas Bertoldo<sup>1</sup>, Sergio Sabbadini<sup>2</sup>, Gianluca Ruggieri<sup>3</sup>, Chiara Moletti<sup>1</sup> and Giovanni Dotelli<sup>1</sup>    
 ><sup>1</sup> Department of Chemistry, Materials and Chemical Engineering "Giulio Natta" , Politecnico di Milano, Italy;  
