@@ -9,7 +9,7 @@ In this repository, you can find:
 >Authors: Nicolas Bertoldo<sup>1</sup>, Sergio Sabbadini<sup>2</sup>, Gianluca Ruggieri<sup>3</sup>, Chiara Moletti<sup>1</sup> and Giovanni Dotelli<sup>1</sup>    
 ><sup>1</sup> Department of Chemistry, Materials and Chemical Engineering "Giulio Natta" , Politecnico di Milano, Italy;  
 ><sup>2</sup> A.N Studio di Architettura Disstudio.it, a.n.a.b., Milan, Italy;  
-><sup>3</sup> Dipartimanto di Scienze Teoriche e Applicate, Università dell'Insubria, Varese, Italy  
+><sup>3</sup> Dipartimento di Scienze Teoriche e Applicate, Università dell'Insubria, Varese, Italy  
 >
 >Contacts: 
 >- email: nicolas.bertoldo@polimi.it
